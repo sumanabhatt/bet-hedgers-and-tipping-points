@@ -1,0 +1,10 @@
+x_crit[2] = 0.30017411, beta_crit[2] = 129.11126391, beta_p = 0.1, x_fixed_point = 0.304248, beta = 129.01126391, tau = 1844
+x_crit[2] = 0.30017411, beta_crit[2] = 129.11126391, beta_p = 0.2, x_fixed_point = 0.305776, beta = 128.91126391, tau = 1389
+x_crit[2] = 0.30017411, beta_crit[2] = 129.11126391, beta_p = 0.3, x_fixed_point = 0.306927, beta = 128.81126390999998, tau = 1176
+x_crit[2] = 0.30017411, beta_crit[2] = 129.11126391, beta_p = 0.4, x_fixed_point = 0.307884, beta = 128.71126390999999, tau = 1043
+x_crit[2] = 0.30017411, beta_crit[2] = 129.11126391, beta_p = 0.5, x_fixed_point = 0.308716, beta = 128.61126391, tau = 951
+x_crit[2] = 0.30017411, beta_crit[2] = 129.11126391, beta_p = 0.6, x_fixed_point = 0.309461, beta = 128.51126391, tau = 882
+x_crit[2] = 0.30017411, beta_crit[2] = 129.11126391, beta_p = 0.7, x_fixed_point = 0.310138, beta = 128.41126391, tau = 827
+x_crit[2] = 0.30017411, beta_crit[2] = 129.11126391, beta_p = 0.8, x_fixed_point = 0.310763, beta = 128.31126390999998, tau = 783
+x_crit[2] = 0.30017411, beta_crit[2] = 129.11126391, beta_p = 0.9, x_fixed_point = 0.311345, beta = 128.21126390999999, tau = 745
+x_crit[2] = 0.30017411, beta_crit[2] = 129.11126391, beta_p = 1, x_fixed_point = 0.311891, beta = 128.11126391, tau = 713
